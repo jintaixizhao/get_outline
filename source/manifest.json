@@ -1,0 +1,14 @@
+{
+  "name": "轮廓线",
+  "description": "轮廓线",
+  "version": "1.0",
+  "background": { "scripts": ["popup.js"] },
+  "browser_action": {
+    "default_title": "轮廓线",
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "manifest_version": 2
+}
